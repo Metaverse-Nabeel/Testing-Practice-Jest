@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice-jest",
+  "version": "1.0.0",
+  "description": "This is the testing practice tutorial using Jest tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metaverse-Nabeel/Testing-Practice-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metaverse-Nabeel/Testing-Practice-Jest/issues"
+  },
+  "homepage": "https://github.com/Metaverse-Nabeel/Testing-Practice-Jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
